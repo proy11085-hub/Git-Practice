@@ -3,3 +3,5 @@ I am learning Git.
 I want to become a Data Analyst.
 I am learning SQL.
 I am learning Power BI.
+Git Branching Practice
+I am learning how to create separate branches.
