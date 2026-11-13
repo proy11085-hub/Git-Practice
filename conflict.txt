@@ -1,0 +1,6 @@
+I am learning Git.
+<<<<<<< HEAD
+My favourite tool is Excel.
+=======
+My favourite tool is SQL.
+>>>>>>> conflict-practice
