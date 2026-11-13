@@ -1,0 +1,5 @@
+My name is Pratik.
+I am learning Git.
+I want to become a Data Analyst.
+I am learning SQL.
+I am learning Power BI.
